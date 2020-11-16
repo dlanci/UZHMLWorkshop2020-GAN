@@ -21,6 +21,4 @@ In order to speed up training, we can even use GPUs! Select on "Runtime"->"Chang
 
 ## Data
 
-The data is stored in a cloud and can be accessed via (alternative downloads also available, check out the notebooks):
-
 You don't have to download the data directly but it's done automatically in the notebook.
