@@ -11,7 +11,7 @@ In case of any problems, contact us via:
 
  - In a browser page, open [Google Colab](https://colab.research.google.com/)
  - If needed log in with your Google Account and select the tab "Github" from the prompt menu. Search for "UZHMLWorkshop2020-GAN"
- - In order to test the environment that will be used throughout this workshop access and execute the test_environment.ipynb notebook.
+ - In order to test the environment that will be used throughout this workshop, access and execute the test_environment.ipynb notebook.
    This will download the data and allow you to import utils.py in the notebook.
  - Make sure this worked and report if any troubles arise.
  
